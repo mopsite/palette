@@ -34,6 +34,7 @@ const titleClick = () => {
     text-align: center;
 
     h1 {
+      display: inline-block;
       font-size: 1.8rem;
       cursor: pointer;
     }
